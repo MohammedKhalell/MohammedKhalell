@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <a href="https://redux.js.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
-<img src="{https://img.shields.io/badge/Gmail-D14836} ?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
